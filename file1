@@ -4,3 +4,8 @@ Hai
 newline1
 newline2
 newline3
+<<<<<<< Updated upstream
+newline5
+=======
+newline4
+>>>>>>> Stashed changes
