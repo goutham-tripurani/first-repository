@@ -1,0 +1,4 @@
+<servlet>
+  <servlet-name>My Servlet</servlet>
+  <jsp-file>index.jsp</jsp-file>
+</servlet>
