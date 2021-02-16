@@ -1,3 +1,6 @@
+mypipeline(SCM_BRANCH: 'test', SCM_URL: 'https://github.com/goutham-tripurani/first-repository.git')
+
+/*
 pipeline{
   agent any
   stages{
@@ -18,3 +21,4 @@ pipeline{
     }
   }
 }
+*/
