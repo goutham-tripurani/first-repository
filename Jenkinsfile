@@ -3,17 +3,17 @@ pipeline{
   stages{
     stage("Stage One"){
       steps{
-        echo "In first stage"
+        echo "In first stage develop branch"
       }
     }
     stage("Stage Two"){
       steps{
-        echo "In second stage"
+        echo "In second stage develop branch"
       }
     }
     stage("Stage Three"){
       steps{
-        echo "In third stage"
+        echo "In third stage develop branch"
       }
     }
   }
