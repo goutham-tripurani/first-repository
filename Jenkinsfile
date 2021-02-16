@@ -1,4 +1,5 @@
-mypipeline({SCM_BRANCH = 'main' SCM_URL = 'https://github.com/goutham-tripurani/first-repository.git'})
+mypipeline
+//mypipeline({SCM_BRANCH = 'main' SCM_URL = 'https://github.com/goutham-tripurani/first-repository.git'})
 /*
 pipeline{
   agent any
