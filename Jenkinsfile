@@ -1,4 +1,4 @@
-mypipeline()
+mypipeline("main", "https://github.com/goutham-tripurani/first-repository.git")
 //mypipeline({SCM_BRANCH = 'main' SCM_URL = 'https://github.com/goutham-tripurani/first-repository.git'})
 /*
 pipeline{
